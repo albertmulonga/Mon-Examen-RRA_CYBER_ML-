@@ -1,0 +1,5 @@
+montant;type_transaction;pays;heure;suspect
+500000;import;Rwanda;10;0
+15000000;import;Congo;2;1
+300000;export;Rwanda;14;0
+20000000;export;Kenya;1;1
